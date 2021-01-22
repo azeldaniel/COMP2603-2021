@@ -1,4 +1,4 @@
-# COMP2603-2020
+# COMP2603-2021
 
 This repository contains lab material for Object Oriented Programming I at the University of the West Indies, St. Augustine. Note that this repository created for code sharing convenience, and all solutions may be redacted at the end of the academic year in 2021.
 
