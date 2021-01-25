@@ -4,4 +4,8 @@ This repository contains lab material for Object Oriented Programming I at the U
 
 ## Week 1 (January 18th and 22nd)
 
-Introduction to Java and the BlueJ editor.
+Introduction to the Java object oriented language and the [BlueJ](https://www.bluej.org/) editor.
+
+## Week 2 (January 25th and 29th)
+
+Introduction to object oriented constructor, accessor and mutator methods. Principles regarding information hiding, as well as class and instance methods/attributes are also introduced.
