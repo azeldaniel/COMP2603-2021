@@ -13,3 +13,7 @@ Introduction to object oriented constructor, accessor and mutator methods. Princ
 ## Week 3 (February 1st and 5th)
 
 Introduction to the various types of object oriented relationships: dependencies, associations, and generalisations.
+
+## Week 4 (February 8th and 12th)
+
+Introduction to class inheritance, method refinement and replacement.
