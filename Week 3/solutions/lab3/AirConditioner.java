@@ -74,8 +74,9 @@ public class AirConditioner {
 
     // Mutators
     public void setUnits(String value) {
-        if (value.equals("Fahrenheit"))
+        if (value.equals("Fahrenheit")) {
             units = "Fahrenheit";
+        }
     }
 
     public void setDesiredTemperature(double userTemperature) {
