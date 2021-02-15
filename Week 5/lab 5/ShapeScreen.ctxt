@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=ShapeScreen
+comment1.params=
+comment1.target=void\ init()
+comment10.params=g
+comment10.target=void\ paint(java.awt.Graphics)
+comment2.params=
+comment2.target=ShapeScreen()
+comment3.params=e
+comment3.target=void\ windowClosing(java.awt.event.WindowEvent)
+comment4.params=ss
+comment4.target=ShapeScreen(SimpleShape[])
+comment5.params=e
+comment5.target=void\ windowClosing(java.awt.event.WindowEvent)
+comment6.params=args
+comment6.target=void\ main(java.lang.String[])
+comment7.params=e
+comment7.target=void\ windowClosing(java.awt.event.WindowEvent)
+comment8.params=g2\ longString\ xSpace
+comment8.target=java.awt.FontMetrics\ pickFont(java.awt.Graphics2D,\ java.lang.String,\ int)
+comment9.params=s
+comment9.target=void\ drawShape(SimpleShape)
+numComments=11

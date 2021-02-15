@@ -17,3 +17,7 @@ Introduction to the various types of object oriented relationships: dependencies
 ## Week 4 (February 8th and 12th)
 
 Introduction to class inheritance, method refinement and replacement.
+
+## Week 5 (February 15th and 19th)
+
+Introduction to polymorphism, method binding and principle of substitutability.

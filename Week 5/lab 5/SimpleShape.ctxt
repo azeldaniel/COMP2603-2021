@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=SimpleShape
+comment1.params=
+comment1.target=SimpleShape()
+comment2.params=c
+comment2.target=void\ setColor(java.awt.Color)
+comment3.params=
+comment3.target=java.awt.Color\ getColor()
+comment4.params=
+comment4.target=double\ getArea()
+comment5.params=
+comment5.target=java.awt.Shape\ draw()
+comment6.params=
+comment6.target=void\ calculateArea()
+comment7.params=
+comment7.target=java.lang.String\ toString()
+numComments=8
