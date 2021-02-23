@@ -21,3 +21,7 @@ Introduction to class inheritance, method refinement and replacement.
 ## Week 5 (February 15th and 19th)
 
 Introduction to polymorphism, method binding and principle of substitutability.
+
+## Week 6 (February 22nd and 26th)
+
+Introduction to interfaces, ArrayLists and abstract classes.
