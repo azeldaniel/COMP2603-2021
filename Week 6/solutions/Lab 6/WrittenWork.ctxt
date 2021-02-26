@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=WrittenWork
+comment0.text=\n\ Write\ a\ description\ of\ interface\ WrittenWork\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=int\ getNumPages()
+comment2.params=
+comment2.target=java.lang.String\ getAuthorName()
+comment3.params=
+comment3.target=java.lang.String\ getTitle()
+comment4.params=
+comment4.target=double\ getPrice()
+comment5.params=author
+comment5.target=void\ addAuthor(Author)
+numComments=6

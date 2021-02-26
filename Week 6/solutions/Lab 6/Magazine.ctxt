@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=Magazine
+comment0.text=\n\ Write\ a\ description\ of\ class\ Magazine\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=title
+comment1.target=Magazine(java.lang.String)
+comment2.params=a
+comment2.target=void\ addAuthor(Author)
+comment3.params=
+comment3.target=java.lang.String\ getAuthorName()
+comment4.params=
+comment4.target=java.lang.String\ getTitle()
+comment5.params=
+comment5.target=int\ getNumPages()
+comment6.params=
+comment6.target=double\ getPrice()
+comment7.params=a
+comment7.target=boolean\ hasAuthor(Author)
+numComments=8
