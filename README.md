@@ -26,6 +26,10 @@ Introduction to polymorphism, method binding and principle of substitutability.
 
 Introduction to interfaces, ArrayLists and abstract classes.
 
-## Week 7 (March 1st anf 5th)
+## Week 7 (March 1st and 5th)
 
 Introduction to Graphical User Interfaces (GUI) in Java. Download link for the NetBeans IDE (Java SE): [https://netbeans.org/downloads/](https://netbeans.org/downloads/)
+
+## Week 8 (March 8th and 12th)
+
+More GUI practice in Java.
