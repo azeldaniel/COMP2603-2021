@@ -33,3 +33,7 @@ Introduction to Graphical User Interfaces (GUI) in Java. Download link for the N
 ## Week 8 (March 8th and 12th)
 
 More GUI practice in Java.
+
+## Week 9 (March 15th and 19th)
+
+Concrete collections in Java.
