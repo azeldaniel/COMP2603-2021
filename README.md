@@ -37,3 +37,7 @@ More GUI practice in Java.
 ## Week 9 (March 15th and 19th)
 
 Concrete collections in Java.
+
+## Week 10 (March 22nd and 26th)
+
+More GUI and collections practice in Java.
