@@ -45,3 +45,7 @@ More GUI and collections practice in Java.
 ## Week 11 (March 29th and April 2nd)
 
 More GUI practice in Java. April 2nd was a holiday, view March 29th's recording in the course shell.
+
+## Week 12 (April 5th and 9th)
+
+More collections practice in Java. April 5th was a holiday, view April 9th's recording in the course shell.
