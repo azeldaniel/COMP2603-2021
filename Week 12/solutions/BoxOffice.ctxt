@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=BoxOffice
+comment1.params=
+comment1.target=BoxOffice()
+comment2.params=p
+comment2.target=void\ addPatron(Patron)
+comment3.params=
+comment3.target=java.util.ArrayList\ getPatrons()
+comment4.params=name
+comment4.target=void\ findPatron(java.lang.String)
+comment5.params=p
+comment5.target=void\ addPatronInMap(Patron)
+comment6.params=
+comment6.target=java.util.HashMap\ getPatronsMap()
+comment7.params=name
+comment7.target=void\ findPatronInMap(java.lang.String)
+comment8.params=args
+comment8.target=void\ main(java.lang.String[])
+numComments=9
