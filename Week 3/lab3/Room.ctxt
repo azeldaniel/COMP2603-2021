@@ -1,9 +1,0 @@
-#BlueJ class context
-comment0.target=Room
-comment1.params=name\ floor\ squareFootage
-comment1.target=Room(java.lang.String,\ int,\ double)
-comment2.params=
-comment2.target=void\ setNumSeats()
-comment3.params=
-comment3.target=java.lang.String\ getRoomID()
-numComments=4
